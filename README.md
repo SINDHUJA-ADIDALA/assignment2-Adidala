@@ -1,4 +1,5 @@
 # assignment2-Adidala
 # Sindhuja Adidala
 ###### Himachal pradesh
-Himachal pradesh is a ***northern Indian state*** in the Himalayas. It is home to scenic ***mountain towns*** and resorts such as ***Dalhousie***. I like this place because it is well-known for trecking, climbing. 
+
+Himachal pradesh is a **northern Indian state** in the Himalayas. It is home to scenic **mountain towns** and resorts such as **Dalhousie**. I like this place because it is well-known for trecking, climbing. 
