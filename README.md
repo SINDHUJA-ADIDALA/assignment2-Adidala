@@ -18,5 +18,12 @@ Himachal pradesh is a **northern Indian state** in the Himalayas. It is home to 
    2. Book a train ticket to Himachal pradesh.
 4. Una Himachal Railway Station to Una Comfort Nandini Hotel.
 
+* clothes
+* UNO cards
+* Pair of Foot Wear
+* Snacks
+  * choclates
+  * cookies
+
 
 
