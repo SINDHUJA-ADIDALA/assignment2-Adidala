@@ -41,3 +41,9 @@ Himachal pradesh is a **northern Indian state** in the Himalayas. It is home to 
   |       Chicken Taco                   |      Choclate Almond Milk   | $ 13    |
 
 
+# Quotes by greatest people
+
+> "Spread love everywhere you go. Let no one ever come to you without leaving happier"- by ***Mother Teresa*** <br>
+> "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart"- by ***Helen Keller***
+
+
