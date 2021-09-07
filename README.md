@@ -25,5 +25,19 @@ Himachal pradesh is a **northern Indian state** in the Himalayas. It is home to 
   * choclates
   * cookies
 
+  [image](https://github.com/SINDHUJA-ADIDALA/assignment2-Adidala/blob/main/AboutMe.md)
+
+  ---
+
+  # Table Creation
+
+  The above table recommends some of my best food and drinks I experienced till now
+
+  |          Food                        |        Drink                | Price   |
+  |          ----                        |        -----                | -----   |
+  |       Chicken Sandwich               |       Coke                  | $8      |
+  |       Chicken cheese pizza           |      Vanila Milkshake       | $10     |
+  |       Chicken Nuggets                |      Caramel Frapuchino     | $12     |
+  |       Chicken Taco                   |      Choclate Almond Milk   | $ 13    |
 
 
