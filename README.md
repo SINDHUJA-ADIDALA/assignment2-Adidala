@@ -46,11 +46,12 @@ Himachal pradesh is a **northern Indian state** in the Himalayas. It is home to 
 > "Spread love everywhere you go. Let no one ever come to you without leaving happier"- by ***Mother Teresa*** <br>
 > "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart"- by ***Helen Keller***
 
+
 # Algorithm on Polygons
  
 >  This course focuses on the recovery of the 3D structure of a scene from its 2D images. In particular, we are interested in the 3D reconstruction of a rigid scene from images taken by a stationary camera (same viewpoint). This problem is interesting as we want the multiple images of the scene to capture complementary information despite the fact that the scene is rigid and the camera is fixed. To this end, we explore several ways of capturing images where each image provides additional information about the scene.
 
-I
+
 
 Source link for the definition - <https://www.coursera.org./learn/3d-reconstruction >
 
@@ -75,4 +76,5 @@ bool counter_clockwise(point2d p1, point2d p2, point2d p3) {
 ---
 
 Source link for code - <https://cp-algorithms.com/geometry/oriented-triangle-area.html>
+
 
