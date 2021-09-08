@@ -55,7 +55,7 @@ Himachal pradesh is a **northern Indian state** in the Himalayas. It is home to 
 
 Source link for the definition - <https://www.coursera.org./learn/3d-reconstruction >
 
----
+```
 
  int signed_area_parallelogram(point2d p1, point2d p2, point2d p3) {
     return cross(p2 - p1, p3 - p2);
@@ -73,7 +73,7 @@ bool counter_clockwise(point2d p1, point2d p2, point2d p3) {
     return signed_area_parallelogram(p1, p2, p3) > 0;
 }
 
----
+```
 
 Source link for code - <https://cp-algorithms.com/geometry/oriented-triangle-area.html>
 
