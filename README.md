@@ -33,12 +33,12 @@ Himachal pradesh is a **northern Indian state** in the Himalayas. It is home to 
 
   The above table recommends some of my best food and drinks I experienced till now
 
-  |          Food                        |        Drink                | Price   |
+  |          Food/Drink                  |        Location             | Price   |   
   |          ----                        |        -----                | -----   |
-  |       Chicken Sandwich               |       Coke                  | $8      |
-  |       Chicken cheese pizza           |      Vanila Milkshake       | $10     |
-  |       Chicken Nuggets                |      Caramel Frapuchino     | $12     |
-  |       Chicken Taco                   |      Choclate Almond Milk   | $ 13    |
+  |       Chicken Sandwich               |       Chick Fill A          | $8      |
+  |       Chicken cheese pizza           |      Pizza Hut              | $10     |
+  |       Chicken Nuggets                |      Chick Fill A           | $12     |
+  |       Chicken Taco                   |      Taco Bell              | $ 13    |
 
 
 # Quotes by greatest people
