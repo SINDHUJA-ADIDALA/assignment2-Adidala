@@ -46,28 +46,33 @@ Himachal pradesh is a **northern Indian state** in the Himalayas. It is home to 
 > "Spread love everywhere you go. Let no one ever come to you without leaving happier"- by ***Mother Teresa*** <br>
 > "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart"- by ***Helen Keller***
 
-# Algorithm on Algebra
+# Algorithm on Polygons
  
-> Algebra is one of the definitive and oldest branches of mathematics, and design of computer algorithms is one of the youngest.
-Despite this generation gap, the two disciplines beautifully interweave. Firstly, modern computers would be somewhat useless if they were not able to carry out arithmetic and algebraic computations efficiently, so we need to think on dedicated, sometimes rather sophisticated algorithms for these operations.
+>  This course focuses on the recovery of the 3D structure of a scene from its 2D images. In particular, we are interested in the 3D reconstruction of a rigid scene from images taken by a stationary camera (same viewpoint). This problem is interesting as we want the multiple images of the scene to capture complementary information despite the fact that the scene is rigid and the camera is fixed. To this end, we explore several ways of capturing images where each image provides additional information about the scene.
 
-Source link for the definition - <https://www.coursera.org/learn/algebra-and-algorithms>
+I
+
+Source link for the definition - <https://www.coursera.org./learn/3d-reconstruction >
 
 ---
 
-long long binpow(long long a, long long b) {
-    long long res = 1;
-    while (b > 0) {
-        if (b & 1)
-            res = res * a;
-        a = a * a;
-        b >>= 1;
-    }
-    return res;
+ int signed_area_parallelogram(point2d p1, point2d p2, point2d p3) {
+    return cross(p2 - p1, p3 - p2);
 }
 
+double triangle_area(point2d p1, point2d p2, point2d p3) {
+    return abs(signed_area_parallelogram(p1, p2, p3)) / 2.0;
+}
+
+bool clockwise(point2d p1, point2d p2, point2d p3) {
+    return signed_area_parallelogram(p1, p2, p3) < 0;
+}
+
+bool counter_clockwise(point2d p1, point2d p2, point2d p3) {
+    return signed_area_parallelogram(p1, p2, p3) > 0;
+}
 
 ---
 
-Source link for code - <https://cp-algorithms.com/algebra/binary-exp.html>
+Source link for code - <https://cp-algorithms.com/geometry/oriented-triangle-area.html>
 
